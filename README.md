@@ -7,4 +7,6 @@
 
 ![image](https://github.com/duanzihe/git_student/assets/106713739/089fbe96-7935-4ce6-b1e5-f5da63a30d3d)  
 
-  接着，创建一个样例文件，利用git add 将文件保存到暂存区，再利用git commit -m “提交信息”（注意，在这一步之前要登录一下github，如下图）
+  接着，创建一个样例文件，利用git add 将文件保存到暂存区，再利用git commit -m “提交信息”（注意，在这一步之前要登录一下github，如下图）  
+  ![image](https://github.com/duanzihe/git_student/assets/106713739/a881612a-a893-4cff-af74-5a5334907f88)
+
