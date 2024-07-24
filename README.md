@@ -11,7 +11,8 @@
   ![image](https://github.com/duanzihe/git_student/assets/106713739/a881612a-a893-4cff-af74-5a5334907f88)  
 
 现在的话，还需要用命令
-$ git remote set-url origin https://duanzihe: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@github.com/duanzihe/rust_study.git
+$ git remote set-url origin https://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@github.com/duanzihe/rust_study.git
+
 
 加上令牌，如下图
 ![375fb34b9f73b3e363ca0f9df351584e](https://github.com/user-attachments/assets/0177578a-38f2-413e-b0f0-98e412810a60)
