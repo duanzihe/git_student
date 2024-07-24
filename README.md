@@ -11,11 +11,12 @@
   ![image](https://github.com/duanzihe/git_student/assets/106713739/a881612a-a893-4cff-af74-5a5334907f88)  
 
 现在的话，还需要用命令
-$ git remote set-url origin https://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@github.com/duanzihe/rust_study.git
+$ git remote set-url origin https://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@github.com/duanzihe/rust_study.git  
 
+加上令牌再push，如下图  
 
-加上令牌，如下图
-![375fb34b9f73b3e363ca0f9df351584e](https://github.com/user-attachments/assets/0177578a-38f2-413e-b0f0-98e412810a60)
+![504fda6379adec7e224a71b29c326789](https://github.com/user-attachments/assets/3dc94e06-c9aa-4a76-a327-a92b716dbc99)
+
 
   在提交到本地仓库后，再利用git push将本地仓库的更改推送到远程仓库。
   为什么要分暂存区，本地仓库，远程仓库三步？
